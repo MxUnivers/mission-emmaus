@@ -1,0 +1,32 @@
+export const mockTestimonials = [
+  {
+    id: '1',
+    name: 'Marie-Claire Dupont',
+    role: 'Membre depuis 2019',
+    content: 'L\'Eglise Emmaüs a complètement transformé ma vie. Quand j\'ai perdu mon emploi en 2020, c\'est la communauté qui m\'a soutenue, priée avec moi et m\'a aidée à retrouver confiance en Dieu.',
+    avatar: 'https://readdy.ai/api/search-image?query=Portrait%20of%20a%20warm%20smiling%20African%20woman%2C%20natural%20light%2C%20professional%20headshot%2C%20warm%20golden%20tones%2C%20neutral%20background%2C%20amber%20lighting%2C%20soft%20and%20inviting%20expression%2C%20high%20quality%20photography&width=200&height=200&seq=testi-mock-1&orientation=squarish',
+    sort_order: 1,
+    is_active: true,
+    created_at: '2026-01-01T00:00:00Z',
+  },
+  {
+    id: '2',
+    name: 'Jean-Baptiste Mensah',
+    role: 'Responsable Cellule Jeunes',
+    content: 'J\'ai découvert Emmaüs lors d\'une soirée jeunesse il y a quatre ans. J\'étais perdu, en quête de sens. Le message de ce soir-là a touché mon cœur.',
+    avatar: 'https://readdy.ai/api/search-image?query=Portrait%20of%20a%20confident%20young%20African%20man%2C%20warm%20smile%2C%20professional%20headshot%2C%20natural%20light%2C%20warm%20golden%20tones%2C%20neutral%20background%2C%20amber%20lighting%2C%20friendly%20and%20approachable%20expression%2C%20high%20quality%20photography&width=200&height=200&seq=testi-mock-2&orientation=squarish',
+    sort_order: 2,
+    is_active: true,
+    created_at: '2026-01-01T00:00:00Z',
+  },
+  {
+    id: '3',
+    name: 'Sophie Legrand',
+    role: 'Nouvelle membre depuis 2024',
+    content: 'J\'ai emménagé à Paris et ne connaissais personne. Emmaüs est devenue ma famille. La première fois, j\'ai été accueillie avec tant de chaleur que j\'ai pleuré.',
+    avatar: 'https://readdy.ai/api/search-image?query=Portrait%20of%20a%20gentle%20young%20European%20woman%2C%20warm%20natural%20smile%2C%20professional%20headshot%2C%20natural%20light%2C%20warm%20golden%20tones%2C%20neutral%20background%2C%20amber%20lighting%2C%20soft%20and%20kind%20expression%2C%20high%20quality%20photography&width=200&height=200&seq=testi-mock-3&orientation=squarish',
+    sort_order: 3,
+    is_active: true,
+    created_at: '2026-01-01T00:00:00Z',
+  },
+];
